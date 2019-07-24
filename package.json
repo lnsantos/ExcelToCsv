@@ -1,0 +1,17 @@
+{
+  "name": "exceljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "init": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.13.0",
+    "xlsx": "^0.14.4"
+  }
+}
